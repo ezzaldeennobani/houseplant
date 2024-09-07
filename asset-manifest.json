@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/houseplant/static/css/main.c52767c2.css",
+    "main.js": "/houseplant/static/js/main.7b73dc79.js",
+    "static/media/Wild-Roots-scaled.jpg": "/houseplant/static/media/Wild-Roots-scaled.277b7fc1e22ad7c62b75.jpg",
+    "index.html": "/houseplant/index.html",
+    "main.c52767c2.css.map": "/houseplant/static/css/main.c52767c2.css.map",
+    "main.7b73dc79.js.map": "/houseplant/static/js/main.7b73dc79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52767c2.css",
+    "static/js/main.7b73dc79.js"
+  ]
+}
