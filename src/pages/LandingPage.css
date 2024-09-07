@@ -1,0 +1,19 @@
+.landing-page {
+  background-image: url('C:\D\Corsera\houseplant-ecommerce\src\Wild-Roots-scaled.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
